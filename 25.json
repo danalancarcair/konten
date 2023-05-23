@@ -1,0 +1,155 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner":"ca-app-pub-6775284507507716/2374537775",
+      "main_ads_intertitial":"ca-app-pub-6775284507507716/1077219230",
+      "main_ads_natives":"ca-app-pub-6775284507507716/8117819041",
+      "backup_ads_natives":"b143ad102d7200d4",
+      "backup_ads_banner":"d31908f1c0fbb96c",
+      "backup_ads_intertitial":"acc6c5f52857ddbe",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "investasi",
+      "high_paying_keyword_2": "pinjaman",
+      "high_paying_keyword_3": "saham",
+      "high_paying_keyword_4": "crypto",
+      "high_paying_keyword_5": "penghasilan",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Test",
+      "image": "https://i0.wp.com/dianisa.com/wp-content/uploads/2022/11/5-Gambar-pemandangan-laut-dengan-perahu.jpg?resize=1280%2C720&ssl=1",
+      "link": "https://play.google.com/store/apps/details?id=com"
+    } 
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorialku",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg"
+    } 
+  ],
+  "Data": [
+
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Menjaga Kesehatan Keuangan: Menghindari Pinjaman Online",
+      "image": "https://beritaku.id/wp-content/uploads/Torer-Pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/1.html"
+    } ,{
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Mengontrol Pengeluaran: Cara Tidak Terjebak Pinjaman Online",
+      "image": "https://s.kaskus.id/images/2020/08/25/10909191_202008251123130527.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/2.html"
+    } ,
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Membangun Keuangan Stabil: Tips Menghindari Pinjaman Online",
+      "image": "https://1.bp.blogspot.com/-E8zJl2A3Go4/XiUXFK5p_SI/AAAAAAAAKGk/X9MVUvBk1xUl4clSBplFev2zTHQDPEPLwCLcBGAsYHQ/s1600/pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/3.html"
+    } ,{
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Alternatif Keuangan yang Lebih Aman: Tidak Perlu Pinjol?",
+      "image": "https://lh3.googleusercontent.com/-I9Gs5gnbaCU/Y47gKg_kfPI/AAAAAAAAPXI/P8AKVrJ4mB4hbtBmcYrxd0givpuYwkv5gCNcBGAsYHQ/s1600/1670307880690506-0.png",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/4.html"
+    } ,{
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Mencegah Penumpukan Utang: Cara Menghindari Pinjaman Online",
+      "image": "https://harianriau.co/assets/berita/original/38393446803-1.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/5.html"
+    } ,{
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Berhenti Meminjam, Mulai Menabung: Strategi Menghindari Pinjol",
+      "image": "https://pict-a.sindonews.net/dyn/620/pena/news/2020/09/08/16/158296/pinjol-hadir-bagai-dewa-penolong-hqb.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/6.html"
+    } ,{
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Mengenal Risiko Pinjaman Online: Mengapa Anda Harus Menghindarinya",
+      "image": "https://eksis.id/wp-content/uploads/2021/10/pinjol-eksis.id_-768x480.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/7.html"
+    } ,{
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Mengendalikan Nafsu Belanja: Tips untuk Tidak Menggunakan Pinjol",
+      "image": "https://ibtimes.id/wp-content/uploads/2020/02/pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/8.html"
+    } ,{
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Kunci Sukses Keuangan Pribadi: Tidak Bergantung pada Pinjaman Online",
+      "image": "https://1.bp.blogspot.com/-e6BICgpi8EM/X5WxsLD50zI/AAAAAAAAW5I/p74vSLelascpT35FOwsqkojx4VIECDuYwCLcBGAsYHQ/s636/Bahaya%2BPinjol%2BLegal%2Bdan%2BIlegal.JPG",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/9.html"
+    } ,{
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Beralih ke Sumber Dana Alternatif: Menghindari Pinjaman Online",
+      "image": "https://1.bp.blogspot.com/-KIP7bftS34w/YSRrfkYCbrI/AAAAAAAAD0Q/7Yvi60w5WsEbr3yCFMmcdO3Yu3f_rVTggCLcBGAsYHQ/s640/pinjolilegal.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/10.html"
+    } ,{
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Menjadi Pintar dengan Uang: Panduan untuk Tidak Menggunakan Pinjol",
+      "image": "https://mixotekno.id/wp-content/uploads/2019/09/cara-menghapus-data-di-pinjol-696x392.jpeg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/11.html"
+    } ,{
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "Melakukan Perencanaan Keuangan yang Bijaksana: Hindari Pinjaman Online",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/yang-perlu-diperhatikan-dari-pinjaman_210526104147-713.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/12.html"
+    } ,{
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "Kiat Finansial Mandiri: Tidak Terjerat Pinjaman Online",
+      "image": "https://s.kaskus.id/images/2021/10/09/1814982_20211009060115.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/13.html"
+    } ,{
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "Membangun Tabungan Darurat: Cara Menghindari Pinjol",
+      "image": "https://img.alinea.id/img/content/2021/07/29/116631/bongkar-pinjol-ksp-ilegal-bareskrim-tangkap-8-orang-XGLTp4rdHw.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/14.html"
+    } ,{
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "Menghadapi Tantangan Keuangan: Bagaimana Menghindari Pinjaman Online",
+      "image": "https://1.bp.blogspot.com/-DEjQjrhfruQ/YAhhEohBF5I/AAAAAAAAYZs/8adyYyPRBj44O_9xhjmOvisDdGJ-d8LZwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Pinjol%2BApa%2BSaja%2BSih%2Byang%2BDatang%2Bke%2BRumah.JPG",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/danalancarcair/html/main/15.html"
+    } 
+   
+  ]
+}
+
